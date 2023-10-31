@@ -1,0 +1,2 @@
+# Esercitazione 16 ottobre - Traccia 1
+Dato un array di number calcolare la somma.

@@ -1,0 +1,3 @@
+Creare una todo list implementando le operazioni crud per ogni elemento della lista (in javascript non esistono le liste quindi dovete necessariamente usare un array)
+
+PS: usate l'oggetto Date!

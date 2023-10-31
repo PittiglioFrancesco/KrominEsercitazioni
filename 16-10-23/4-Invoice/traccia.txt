@@ -1,0 +1,6 @@
+Modellizzare un oggetto Invoice (creando la funzione costruttore e successivamente utilizzando la keyword class) formato da proprietà e metodi opportuni tra i quali la proprietà id di tipo number e la proprietà statica nextId di tipo number.
+
+Ogni volta che create una istanza di Invoice assegnare, in automatico, il valore di nextId ad id e incrementare nextId.
+
+Definire un array di Invoice.
+Definire una funzione che richieda, come parametri, il riferimento all'array ed un id e che ritorni l'oggetto Invoice trovato (non conoscete il metodo find quindi non potete utilizzarlo)

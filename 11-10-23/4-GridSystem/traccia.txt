@@ -1,0 +1,4 @@
+# Esercitazione 11 ottobre - Traccia 4
+Provare a creare un grid system come quello visto a lezione.
+Applicarlo alle card affinchè queste siano mostrate in colonna
+Scopo: provare la direttiva media

@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+}
+
+div.row {
+  background-color: red;
+}
+
+div.colonna {
+  background-color: #fff;
+}
+
+.card {
+  background-color: lightgreen;
+  margin: 32px auto;
+}
+
+.left{
+  display: flex;
+}
+
+.circle {
+  margin: 16px 8px;
+  padding: 32px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.page-name {
+  margin: 0 8px;
+}
+
+.other, .descrizione { 
+  margin-right: 8px;
+}
+
+.descrizione { 
+  margin-left: 8px;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}

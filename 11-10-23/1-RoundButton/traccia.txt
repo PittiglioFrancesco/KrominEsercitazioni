@@ -1,0 +1,6 @@
+# Esercitazione 11 ottobre - Traccia 1
+Creare un bottone rotondo.
+Il bottone deve contenere una icona
+
+## TIP
+partire da un quadrato

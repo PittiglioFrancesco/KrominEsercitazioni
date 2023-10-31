@@ -1,0 +1,2 @@
+# Esercitazione 16 ottobre - Traccia 2
+Dato un array di number trovare max e min (non conoscete Math quindi non potete usarlo).

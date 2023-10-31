@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+}
+
+div, p, section {
+  margin: auto;
+  padding: 64px;
+  width: 64px;
+}
+
+main {
+  background-color: #fff;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellowgreen;
+}
+
+section {
+  background-color: red;
+}

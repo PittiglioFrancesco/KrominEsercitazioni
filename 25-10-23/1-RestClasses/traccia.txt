@@ -1,0 +1,10 @@
+Creare un modulo ES6 (ricordatevi dell'attributo type del tag script al valore module) contenente la definizione di una classe RestClient.
+Questa classe presenta metodi aventi nomi coincidenti con il nome dei metodi http utilizzati nei servizi REST.
+Ognuno di questi metodi permette di scambiare dati con il server in formato json attraverso chiamate a fetch.
+Nascondere all'utilizzatore della classe RestClient la complessità delle richieste e risposte http tramite fetch.
+
+Provare prima con le promise e poi con async e await!
+
+Come test potete utilizzare i seguenti url:
+  - http://dms.cyberdelia.eu/api/v1/user
+  - http://dms.cyberdelia.eu/api/v1/post

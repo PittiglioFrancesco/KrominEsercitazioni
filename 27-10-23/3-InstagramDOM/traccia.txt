@@ -1,0 +1,7 @@
+Ricreare le card di instagram utilizzando il CSS e il DOM.
+
+Potete trovare i dati ai seguenti url:
+  - http://dms.cyberdelia.eu/api/v1/user
+  - http://dms.cyberdelia.eu/api/v1/post
+
+Per ogni post mostrare anche l'autore del post, l'immagine di profilo dell'autore, data in cui il post è stato creato.

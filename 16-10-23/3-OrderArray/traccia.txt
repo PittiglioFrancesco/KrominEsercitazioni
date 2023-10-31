@@ -1,0 +1,9 @@
+# Esercitazione 16 ottobre - Traccia 3
+Dato un array di numbers scrivere una funzione che si occupi di ordinare l'array in ordine crescente (non conoscete il metodo sort quindi non potete usarlo)
+
+Scrivere ancora un'altra funzione che si occupi di ordinare l'array in ordine decrescente.
+
+Poichè le due funzioni saranno molto simili tra loro, è possibile scrivere un'unica funzione (invece di due) dove l'ordinamento richiesto (crescente o descrescente) sia definito in fase di invocazione della funzione?
+
+## TIP
+callback function contenente la logica dell'ordinamento

@@ -1,0 +1,3 @@
+# Esercitazione 11 ottobre - Traccia 2
+Posizionare il bottone creato precedentemente in basso a destra rispetto alla viewport
+Questo bottone prende il nome di FAB (Floating Action Button)

@@ -1,0 +1,6 @@
+# Esercitazione 11 ottobre - Traccia 3
+Creare una navbar ispirandovi a instagram (o a qualsiasi altro social)
+Creare delle card ispirandovi a instagram (o a qualsiasi altro social)
+
+## Variante HARD
+All'hover su un item del menu della navbar mostrare un sotto menu (dropdown)
